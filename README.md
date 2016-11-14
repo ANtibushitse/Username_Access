@@ -1,6 +1,6 @@
  créer une page de connexion contenant un  formulaire : 
 
-*  la page dots contenir : 
+*  la page doits contenir : 
     *  Nom d’utilisateur
     * mot de passe côté server
     * erreur si  l’utilisateur se trompe de mot de passe ou d’identifiant
